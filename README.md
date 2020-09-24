@@ -1,11 +1,11 @@
 # Lyrics
 ## America
 ### Simon & Garfunkel
-*Capo 2/C Shape*<br /> 
+*Capo 2/C Shape*<br />
 [humming] intro:<br /> 
 C Cmaj7 Am G F <br />
 **V1** <br />
-C Cmaj7 Am G F<br />  
+C Cmaj7 Am G F<br />
 Let us be lovers, we’ll marry our fortunes together  <br />
 C Cmaj7 Am <br />
 I've got some real estate here in my bag <br />
@@ -14,7 +14,7 @@ So we bought a pack of cigarettes, and Mrs. Wagner's pies <br />
 D C G Am ... F (full bar)<br /> 
 And walked off, to look for America<br /> 
 **V2** <br />
-C Cmaj7 Am G F<br />  
+C Cmaj7 Am G F<br />
 "Kathy", I said, as we boarded a Greyhound in Pittsburgh <br />
 C Cmaj7 Am F  <br />
 Michigan seems like a dream to me now <br />
