@@ -30,10 +30,10 @@ She said the man in the gabardine suit was a spy  <br />
 FC  <br />
 I said, "Be careful, his bow tie is really a camera...”  <br />
   
-Cmaj7/Am/D9... F7<br />  
-(leaving space here — jam?)<br />  
+Cmaj7/Am/D9... F7<br />
+(leaving space here — jam?)<br />
 C Cmaj7 Am G F  <br />
-"Toss me a cigarette; I think there's one in my raincoat"<br />  
+"Toss me a cigarette; I think there's one in my raincoat"<br />
 C Cmaj7AmF <br />
 We smoked the last one an hour ago<br /> 
 Em7 A7 Em7 A7  <br />
