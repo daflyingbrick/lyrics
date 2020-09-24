@@ -1,6 +1,6 @@
-#Lyrics
-##America
-###Simon & Garfunkel
+# Lyrics
+## America
+### Simon & Garfunkel
 *Capo 2/C Shape*
 [humming] intro:
 C Cmaj7 Am G F
